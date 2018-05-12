@@ -1,0 +1,36 @@
+_repo: In-Kali-s-CountryTales-from-Sunny-India_38881
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Childs, Elma McNeal
+    gutenberg_agent_id: '39305'
+    url: http://www.gutenberg.org/2009/agents/39305
+covers:
+- cover_type: archival
+  image_path: 38881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheets, Emily Churchill Thompson
+    birthdate: 1875
+    gutenberg_agent_id: '39698'
+    url: http://www.gutenberg.org/2009/agents/39698
+description: ''
+gutenberg_issued: '2012-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38881'
+  lccn: '11001129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Missions -- India -- Fiction'
+- !lcsh 'India -- Social life and customs -- Fiction'
+tableOfContents: Kalighat -- Shama Sahai -- Old Sarah -- A son of the law -- Mundra
+  -- Of the tribe of Haunamon -- In ways mysterious -- The way to happiness -- Bachelor
+  dreams -- The cost -- Among the clouds -- The infidel.
+title: 'In Kali''s Country: Tales from Sunny India'
+url: http://www.gutenberg.org/ebooks/38881
